@@ -1,0 +1,11 @@
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.csproj.AssemblyReference.cache
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.csproj.SuggestedBindingRedirects.cache
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.Form1.resources
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.Properties.Resources.resources
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.csproj.GenerateResource.cache
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.csproj.CoreCompileInputs.cache
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\bin\Debug\WindowsFroms.exe.config
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\bin\Debug\WindowsFroms.exe
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\bin\Debug\WindowsFroms.pdb
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.exe
+G:\Itp_Training\.NET Projects\ASP.Net\WindowsFroms\obj\Debug\WindowsFroms.pdb
